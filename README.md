@@ -1,6 +1,5 @@
 <div align="center">
-<h3>Oláa, eu sou o Jonas e esse é meu perfil 👋<H3>
-<br><br>
+<h3>Oláa, eu sou o Jonas Martinez e esse é meu perfil 👋<H3>
 </div>
 
   <div align="center">
@@ -9,14 +8,17 @@
  
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joonasmartinez&layout=compact)
   
-🔭 I’m currently working on ...
-🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+
+
+    📐 Servidor Público que tenta conciliar o tempo com a Programação.
+    
+   
+🌱 Últimamente aprofundando conhecimento em JavaScript
+    
+📜 Pretendendo aos poucos migrar para 100% da área de tecnologia.
+    
+📫 email: mz-martinez@live.com
+    
 
   
   </div>
