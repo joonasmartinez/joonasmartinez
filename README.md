@@ -10,7 +10,7 @@
   
 
 
-    📐 Servidor Público que tenta conciliar o tempo com a Programação.
+    📐 Servidor Público que concilia o tempo com a Programação.
     
    
 🌱 Últimamente aprofundando conhecimento em JavaScript
