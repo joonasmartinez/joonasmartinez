@@ -35,6 +35,6 @@
 >> HTML - CSS - JAVASCRIPT - BOOTSTRAP 
 >
 >Back-end
->> Node.js com Express, Mongoose, JSON, API RESTful.
+>> Node.js com Express, Mongoose, JSON, API.
 >> 
 >> Banco de dados MongoDB
