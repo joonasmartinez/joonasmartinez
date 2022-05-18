@@ -38,3 +38,13 @@
 >> Node.js com Express, Mongoose, JSON, API.
 >> 
 >> Banco de dados MongoDB
+
+<div align="center">
+  
+### 📝 Contact
+  
+[🔹 Linkedin](https://www.linkedin.com/in/jonas-alex-martinez)
+
+📧 mz-martinez@live.com
+  
+ </div>
