@@ -28,17 +28,6 @@
 >
 > Busco conseguir em algum momento da minha vida, dedicar-me integralmente à área da tecnologia.
 
-<div align="center"> <h3>📃 Conhecimentos técnicos</h3></div>
-
->Front-end
->
->> HTML - CSS - JAVASCRIPT - BOOTSTRAP 
->
->Back-end
->> Node.js com Express, Mongoose, JSON, API.
->> 
->> Banco de dados MongoDB
-
 <div align="center">
   
 ### 📝 Contact
