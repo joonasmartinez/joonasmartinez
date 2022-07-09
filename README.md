@@ -12,9 +12,9 @@
   ***
 
 <div align="center">
-  <h3> 🗨️ About me</h3>
+  <h3> 🗨️ Reflexão</h3>
 
-  Carregando...
+  Não há nada que você não seja capaz de aprender.
 </div>
 
 
