@@ -4,8 +4,9 @@
  
    ![](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5)
    ![](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3)
+ ![](https://img.shields.io/badge/-TYPESCRIPT-05122A?style=flat-square&logo=TYPESCRIPT)
    ![](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=flat-square&logo=JAVASCRIPT)
-   ![](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=REACT)
+    ![](https://img.shields.io/badge/-REACT-05122A?style=flat-square&logo=REACT)
  ![](https://img.shields.io/badge/NODE-05122A?style=flat-square&logo=NODE.JS)
  ![](https://img.shields.io/badge/EXPRESS-05122A?style=flat-square&logo=EXPRESS)
       ![](https://img.shields.io/badge/STYLED--COMPONENTS-05122A?style=flat-square&logo=styled-components)
