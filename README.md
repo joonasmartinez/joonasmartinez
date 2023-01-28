@@ -14,6 +14,7 @@
       ![](https://img.shields.io/badge/NPM-05122A?style=flat-square&logo=npm)
       ![](https://img.shields.io/badge/git-05122A?style=flat-square&logo=git)
       ![](https://img.shields.io/badge/SCRUM--Metodologias_Ágeis-05122A?style=flat-square&logo=SCRUM)
+ ![](https://img.shields.io/badge/KanBan--Metodologias_Ágeis-05122A?style=flat-square&logo=KanBan)
    
  </div>
  
