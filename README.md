@@ -26,7 +26,7 @@
  
  <p>Entusiasmado em resolver problemas usando a programação. Dedico meu tempo ao aprendizado e prática constante para ampliação do conhecimento. <b>AMO TRABALHAR COM TECNOLOGIAS.</b> </br>Atualmente focado em projeto próprio de aplicativo web de agendamento para barbearias com controle de colaboradores e agendas exclusivas para controle.
  </br>
- <h6 align='center'>📚 FACULDADE - Análise e Desenvolvimento de Sistemas - Finalização em 06/2023</h6>
+ <h6 align='center'>📚 FORMADO EM Análise e Desenvolvimento de Sistemas</h6>
 <!--  <h6 align='center'>🚧 ATUALMENTE - DESENVOLVENDO APLICAÇÃO WEB PARA BARBEIROS - Projeto Privado</h6> -->
 </p>
  <div>
